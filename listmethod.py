@@ -1,6 +1,5 @@
 import random
 
-thewords = []
 thephrase = ''
 
 with open('thewords_justwords.txt', 'r') as infile:
