@@ -1,8 +1,8 @@
 # diceware
 Python scripts based on the diceware concept of passkey generation.
 
-dicemethod.py - Bust out a six sided die and play the game of life.
+dicemethod.py - Bust out a six sided die and play the game of life.<br />
 randommethod.py - Put those cpu cycles to good use and get a fast, secure phrase.
 
-An informative link on this procedure and other personal security topics:
+An informative link on this procedure and other personal security topics:<br />
 https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/
